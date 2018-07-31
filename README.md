@@ -15,7 +15,9 @@ Normalized plot has the baseline set around the average of each location dataset
 
 ## Files
 KentuckyHrly.zip - Compressed version of NOAA output data file
+
 KentuckyHrlyWrangledByYear.csv - Subtotaled yearly data
+
 KentuckyHrlyWrangledExtensive.cvw - Wrangled data hourly
 
 ## Scatter Plot
