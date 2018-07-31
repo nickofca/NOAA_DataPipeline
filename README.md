@@ -13,11 +13,19 @@ Normalized plot has the baseline set around the average of each location dataset
 
 # Examples
 
+## Files
+KentuckyHrly.zip - Compressed version of NOAA output data file
+KentuckyHrlyWrangledByYear.csv - Subtotaled yearly data
+KentuckyHrlyWrangledExtensive.cvw - Wrangled data hourly
+
 ## Scatter Plot
 ![Scatter Plot](https://github.com/nickofca/NOAA_DataPipeline/blob/master/KentuckyHrlyScatter.jpg)
+KentuckyHrlyScatter.jpg
 
 ## Normalized Bar Plot
 ![Normalized Bar Plot](https://github.com/nickofca/NOAA_DataPipeline/blob/master/KentuckyHrlyBarNormalized.jpg)
+KentuckyHrlyBarNormalized.jpg
 
 ## Bar Plot
 ![Bar Plot](https://github.com/nickofca/NOAA_DataPipeline/blob/master/KentuckyHrlyBar.jpg)
+KentuckyHrlyBar.jpg
